@@ -1,0 +1,71 @@
+﻿ANSI,ANSI_2,AP,GPO,ISO,Name and status of region_1,Name and status of region,Otherabbreviations,USCG,USPS
+"",67,"","",UM-67,Atoll,Johnston Atoll,XU[8],"",""
+"",71,"","",UM-71,Atoll,Midway Islands,QM[8],"",""
+"",76,"","",UM-76,Island,Navassa Island,XV[8],"",""
+"",79,"","",UM-79,Atoll,Wake Island,QW[8],"",""
+"",81,"","",UM-81,Island,Baker Island,XB[8],"",""
+"",84,"","",UM-84,Island,Howland Island,XH[8],"",""
+"",86,"","",UM-86,Island,Jarvis Island,XQ[8],"",""
+"",89,"","",UM-89,Atoll,Kingman Reef,XM[8],"",""
+"",95,"","",UM-95,Atoll[c],Palmyra Atoll[c],XL[8],"",""
+AK,2,Alaska,Alaska,US-AK,State,Alaska,Ak.[1],AK,AK
+AL,1,Ala.,Ala.,US-AL,State,Alabama,"",AL,AL
+AR,5,Ark.,Ark.,US-AR,State,Arkansas,"",AR,AR
+AS,60,"",A.S.,ASASM016US-AS,Insular area (Territory),American Samoa,"",AS,AS
+AZ,4,Ariz.,Ariz.,US-AZ,State,Arizona,"",AZ,AZ
+CA,6,Calif.,Calif.,US-CA,State,California,Cal.,CF,CA
+CO,8,Colo.,Colo.,US-CO,State,Colorado,"",CL,CO
+CT,9,Conn.,Conn.,US-CT,State,Connecticut,"",CT,CT
+DC,11,D.C.,D.C.,US-DC,Federal district,District of Columbia,Dis. Col.[2],DC,DC
+DE,10,Del.,Del.,US-DE,State,Delaware,"",DL,DE
+FL,12,Fla.,Fla.,US-FL,State,Florida,"",FL,FL
+FM,64,"","",FMFSM583,Freely associated state,Micronesia,"","",FM
+GA,13,Ga.,Ga.,US-GA,State,Georgia,Geo.[1],GA,GA
+GU,66,"",Guam,GUGUM316US-GU,Insular area (Territory),Guam,"",GU,GU
+HI,15,Hawaii,Hawaii,US-HI,State,Hawaii,Hi.[1],HA,HI
+IA,19,Iowa,Iowa,US-IA,State,Iowa,Ioa.[a],IA,IA
+ID,16,Idaho,Idaho,US-ID,State,Idaho,Ida.[1],ID,ID
+IL,17,Ill.,Ill.,US-IL,State,Illinois,"",IL,IL
+IN,18,Ind.,Ind.,US-IN,State,Indiana,"",IN,IN
+KS,20,Kan.,Kans.,US-KS,State,Kansas,Ka.,KA,KS
+KY,21,Ky.,Ky.,US-KY,State,Kentucky,"Ken., Kent.[b]",KY,KY
+LA,22,La.,La.,US-LA,State,Louisiana,"",LA,LA
+MA,25,Mass.,Mass.,US-MA,State,Massachusetts,"",MS,MA
+MD,24,Md.,Md.,US-MD,State,Maryland,"Mar., Mary.",MD,MD
+ME,23,Maine,Maine,US-ME,State,Maine,"",ME,ME
+MH,68,"","",MHMHL584,Freely associated state,Marshall Islands,"","",MH
+MI,26,Mich.,Mich.,US-MI,State,Michigan,"",MC,MI
+MN,27,Minn.,Minn.,US-MN,State,Minnesota,"",MN,MN
+MO,29,Mo.,Mo.,US-MO,State,Missouri,"",MO,MO
+MP,69,"",M.P.,MPMNP580US-MP,Insular area (Commonwealth),Northern Mariana Islands,CNMI[7],CM,MP
+MS,28,Miss.,Miss.,US-MS,State,Mississippi,"",MI,MS
+MT,30,Mont.,Mont.,US-MT,State,Montana,"",MT,MT
+NC,37,N.C.,N.C.,US-NC,State,North Carolina,N. Car.,NC,NC
+ND,38,N.D.,N. Dak.,US-ND,State,North Dakota,"",ND,ND
+NE,31,Neb.,Nebr.,US-NE,State,Nebraska,"",NB,NE
+NH,33,N.H.,N.H.,US-NH,State,New Hampshire,"",NH,NH
+NJ,34,N.J.,N.J.,US-NJ,State,New Jersey,N. Jersey[2],NJ,NJ
+NM,35,N.M.,N. Mex.,US-NM,State,New Mexico,"New M., New Mex.",NM,NM
+NV,32,Nev.,Nev.,US-NV,State,Nevada,"",NV,NV
+NY,36,N.Y.,N.Y.,US-NY,State,New York,N. York[2],NY,NY
+OH,39,Ohio,Ohio,US-OH,State,Ohio,"O.,[3] Oh.[1]",OH,OH
+OK,40,Okla.,Okla.,US-OK,State,Oklahoma,"",OK,OK
+OR,41,Ore.,Oreg.,US-OR,State,Oregon,"",OR,OR
+PA,42,Pa.,Pa.,US-PA,State,Pennsylvania,"Penn.,[1] Penna.[4]",PA,PA
+PR,72,"",P.R.,PRPRI630US-PR,Insular area (Commonwealth),Puerto Rico,"",PR,PR
+PW,70,"","",PWPLW585,Freely associated state,Palau,"","",PW
+RI,44,R.I.,R.I.,US-RI,State,Rhode Island,R.I. & P.P.,RI,RI
+SC,45,S.C.,S.C.,US-SC,State,South Carolina,S. Car.,SC,SC
+SD,46,S.D.,S. Dak.,US-SD,State,South Dakota,SoDak,SD,SD
+TN,47,Tenn.,Tenn.,US-TN,State,Tennessee,"",TN,TN
+TX,48,Texas,Tex.,US-TX,State,Texas,"",TX,TX
+UM,74,"","",UMUMI581US-UM,Insular areas,U.S. Minor Outlying Islands,"","",""
+US,0,U.S.,U.S.,USUSA840,Federal state,United States of America,U.S.A.,"",""
+UT,49,Utah,Utah,US-UT,State,Utah,Ut.[1],UT,UT
+VA,51,Va.,Va.,US-VA,State,Virginia,Virg.,VA,VA
+VI,78,"",V.I.,VIVIR850US-VI,Insular area (Territory),U.S. Virgin Islands,U.S.V.I.,VI,VI
+VT,50,Vt.,Vt.,US-VT,State,Vermont,Verm.[5],VT,VT
+WA,53,Wash.,Wash.,US-WA,State,Washington,Wn.[6],WN,WA
+WI,55,Wis.,Wis.,US-WI,State,Wisconsin,Wisc.,WS,WI
+WV,54,W.Va.,W. Va.,US-WV,State,West Virginia,"W.V., W. Virg.",WV,WV
+WY,56,Wyo.,Wyo.,US-WY,State,Wyoming,"",WY,WY
