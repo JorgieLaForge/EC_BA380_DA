@@ -41,7 +41,7 @@ City and State
 Albany = Albany, NY
 
 No direct City to State mapping data exists in the avocado data. So a number of logical assumptions must be made to create the mapping.
-While it is true that some city names exist 
+While it is true that some city names exist -
 in more than one state (San Diego for example is a city in CA and TX) my working assumption was to use the 
 most populous and widely recognized City/Sate combination (San Diego -> CA).
 
