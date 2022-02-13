@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="21"
-  DTS:VersionGUID="{F57C9094-1C2E-4A4A-8D54-16FBC32D1ABA}">
+  DTS:VersionBuild="23"
+  DTS:VersionGUID="{F6A627CD-8C7E-4AE4-B698-103AD6B4F6D2}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -478,7 +478,7 @@
           DTS:LocaleID="-1"
           DTS:ObjectName="Data Profiling Task"
           DTS:TaskContact="Data Profiling Task; Microsoft Corporation; SQL Server 2019; (c) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="0">
+          DTS:ThreadHint="1">
           <DTS:Variables />
           <DTS:ObjectData>
             <DataProfilingTaskData
@@ -1320,7 +1320,7 @@
           DTS:LocaleID="-1"
           DTS:ObjectName="Truncate target"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="1">
+          DTS:ThreadHint="0">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -2416,12 +2416,12 @@
           </EdgeLayout.Labels>
         </EdgeLayout>
         <ContainerLayout
-          HeaderHeight="43"
+          HeaderHeight="43.2"
           IsExpanded="True"
           PanelSize="377.6,204"
           Size="377.6,247.2"
           Id="Package\Avocado Data Analysis"
-          TopLeft="53.8333314127394,28.6333327065574" />
+          TopLeft="54.666664712959,28.6333327065574" />
         <NodeLayout
           Size="134.4,41.6"
           Id="Package\US Zip Codes Geo Coordinates\Load Target"
@@ -2453,12 +2453,12 @@
           </EdgeLayout.Labels>
         </EdgeLayout>
         <ContainerLayout
-          HeaderHeight="43"
+          HeaderHeight="43.2"
           IsExpanded="True"
           PanelSize="176,204"
-          Size="176,247.2"
+          Size="248,247.2"
           Id="Package\US Zip Codes Geo Coordinates"
-          TopLeft="443.3,5.49999999999991" />
+          TopLeft="469.966665607028,36.7000002479552" />
       </GraphLayout>
     </LayoutInfo>
   </Package>
@@ -2517,41 +2517,19 @@
     design-time-name="Package\US Zip Codes Geo Coordinates\Load Target">
     <LayoutInfo>
       <GraphLayout
-        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="165.6,41.6"
           Id="Package\US Zip Codes Geo Coordinates\Load Target\t_us_state_dim_txt"
           TopLeft="224.5,5.49999999999995" />
         <NodeLayout
-          Size="174.4,41.6"
-          Id="Package\US Zip Codes Geo Coordinates\Load Target\dbo_ t_us_state_dim"
-          TopLeft="220.1,107.1" />
-        <EdgeLayout
-          Id="Package\US Zip Codes Geo Coordinates\Load Target.Paths[Flat File Source Output]"
-          TopLeft="307.3,47.1">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,59.9999999999999"
-              Start="0,0"
-              End="0,52.4999999999999">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,52.4999999999999" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
           Size="152,41.6"
           Id="Package\US Zip Codes Geo Coordinates\Load Target\ZipLatLong_csv"
           TopLeft="32,16" />
+        <NodeLayout
+          Size="174.4,41.6"
+          Id="Package\US Zip Codes Geo Coordinates\Load Target\dbo_ t_us_state_dim"
+          TopLeft="220.1,107.1" />
         <NodeLayout
           Size="152.8,41.6"
           Id="Package\US Zip Codes Geo Coordinates\Load Target\ZipLatLong_dim"
@@ -2575,7 +2553,33 @@
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\US Zip Codes Geo Coordinates\Load Target.Paths[Flat File Source Output]"
+          TopLeft="307.3,47.1">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,59.9999999999999"
+              Start="0,0"
+              End="0,52.4999999999999">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.4999999999999" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
