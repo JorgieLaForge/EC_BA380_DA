@@ -1,0 +1,435 @@
+﻿County,County Name,Count
+Washington County,Washington County,31
+Jefferson County,Jefferson County,26
+Franklin County,Franklin County,25
+,Lincoln County,24
+Jackson County,Jackson County,24
+Madison County,Madison County,20
+,Union County,18
+Clay County,Clay County,18
+Montgomery County,Montgomery County,18
+,Monroe County,17
+Marion County,Marion County,17
+,Greene County,16
+,Wayne County,16
+,Grant County,15
+,Warren County,14
+,Carroll County,13
+,Adams County,12
+,Clark County,12
+,Douglas County,12
+,Lake County,12
+,Marshall County,12
+Johnson County,Johnson County,12
+Lee County,Lee County,12
+Polk County,Polk County,12
+,Crawford County,11
+,Lawrence County,11
+,Morgan County,11
+,Scott County,11
+Calhoun County,Calhoun County,11
+Fayette County,Fayette County,11
+,Hancock County,10
+,Henry County,10
+,Logan County,10
+,Perry County,10
+,Pike County,10
+Hamilton County,Hamilton County,10
+,Benton County,9
+,Clinton County,9
+,Putnam County,9
+Brown County,Brown County,9
+Cass County,Cass County,9
+Knox County,Knox County,9
+Shelby County,Shelby County,9
+,Boone County,8
+,Butler County,8
+,Columbia County,8
+,Cumberland County,8
+,Fulton County,8
+,Mercer County,8
+,Randolph County,8
+,Webster County,8
+Cherokee County,Cherokee County,8
+Harrison County,Harrison County,8
+Jasper County,Jasper County,8
+Orange County,Orange County,8
+,Lewis County,7
+,Pulaski County,7
+,Richland County,7
+Howard County,Howard County,7
+Taylor County,Taylor County,7
+,Custer County,6
+,DeKalb County,6
+,Delaware County,6
+,Garfield County,6
+,Lafayette County,6
+,Livingston County,6
+,Macon County,6
+,Sullivan County,6
+Floyd County,Floyd County,6
+Hardin County,Hardin County,6
+Jones County,Jones County,6
+Martin County,Martin County,6
+Mason County,Mason County,6
+Newton County,Newton County,6
+,Allen County,5
+,Campbell County,5
+,Carter County,5
+,Clarke County,5
+,Decatur County,5
+,Essex County,5
+,Lyon County,5
+,Pierce County,5
+,Saline County,5
+,Sheridan County,5
+,White County,5
+,York County,5
+Anderson County,Anderson County,5
+Caldwell County,Caldwell County,5
+Dallas County,Dallas County,5
+Henderson County,Henderson County,5
+Houston County,Houston County,5
+Kent County,Kent County,5
+Mitchell County,Mitchell County,5
+,Adair County,4
+,Alleghany County,4
+,Blaine County,4
+,Camden County,4
+,Carbon County,4
+,Dodge County,4
+,Fremont County,4
+,Grundy County,4
+,Iron County,4
+,Lancaster County,4
+,Linn County,4
+,Middlesex County,4
+,Mineral County,4
+,Ottawa County,4
+,Phillips County,4
+,Richmond County,4
+,Russell County,4
+,San Juan County,4
+,Somerset County,4
+,St. Clair County,4
+,Sumter County,4
+,Van Buren County,4
+Dawson County,Dawson County,4
+Lamar County,Lamar County,4
+Liberty County,Liberty County,4
+Sherman County,Sherman County,4
+Smith County,Smith County,4
+Wheeler County,Wheeler County,4
+Wilson County,Wilson County,4
+Wood County,Wood County,4
+,Baker County,3
+,Beaver County,3
+,Bedford County,3
+,Buchanan County,3
+,Buffalo County,3
+,Burke County,3
+,Cedar County,3
+,Chester County,3
+,Cheyenne County,3
+,Chippewa County,3
+,Choctaw County,3
+,Christian County,3
+,Claiborne County,3
+,Cleveland County,3
+,Coffee County,3
+,Cook County,3
+,Daviess County,3
+,DeSoto County,3
+,Dickinson County,3
+,Erie County,3
+,Fairfield County,3
+,Gallatin County,3
+,Graham County,3
+,Holmes County,3
+,Humboldt County,3
+,Kiowa County,3
+,LaSalle County,3
+,Lauderdale County,3
+,Lowndes County,3
+,McIntosh County,3
+,McLean County,3
+,McPherson County,3
+,Meade County,3
+,Miami County,3
+,Miller County,3
+,Murray County,3
+,Nelson County,3
+,Noble County,3
+,Northampton County,3
+,Ohio County,3
+,Oneida County,3
+,Orleans County,3
+,Osage County,3
+,Osceola County,3
+,Park County,3
+,Pawnee County,3
+,Pickens County,3
+,Platte County,3
+,Pope County,3
+,Pottawatomie County,3
+,Rock County,3
+,Rockingham County,3
+,Schuyler County,3
+,Seminole County,3
+,Sevier County,3
+,Sioux County,3
+,Stark County,3
+,Stevens County,3
+,Stone County,3
+,Summit County,3
+,Sussex County,3
+,Teton County,3
+,Thomas County,3
+,Todd County,3
+,Valley County,3
+,Vermilion County,3
+,Vernon County,3
+,Winnebago County,3
+,Worth County,3
+,Wright County,3
+,Wyoming County,3
+Cameron County,Cameron County,3
+Comanche County,Comanche County,3
+Delta County,Delta County,3
+Edwards County,Edwards County,3
+Ellis County,Ellis County,3
+Grayson County,Grayson County,3
+Hall County,Hall County,3
+Haskell County,Haskell County,3
+Moore County,Moore County,3
+Morris County,Morris County,3
+Potter County,Potter County,3
+Robertson County,Robertson County,3
+Stephens County,Stephens County,3
+Walker County,Walker County,3
+Williamson County,Williamson County,3
+,Albany County,2
+,Alexander County,2
+,Ashland County,2
+,Atchison County,2
+,Baldwin County,2
+,Barbour County,2
+,Barry County,2
+,Barton County,2
+,Bath County,2
+,Bay County,2
+,Beaufort County,2
+,Beckham County,2
+,Berkeley County,2
+,Berrien County,2
+,Bibb County,2
+,Big Horn County,2
+,Blount County,2
+,Bourbon County,2
+,Boyd County,2
+,Bradford County,2
+,Bradley County,2
+,Bristol County,2
+,Brunswick County,2
+,Bryan County,2
+,Burnett County,2
+,Caddo County,2
+,Caroline County,2
+,Champaign County,2
+,Charlotte County,2
+,Chase County,2
+,Chatham County,2
+,Chautauqua County,2
+,Chesterfield County,2
+,Chickasaw County,2
+,Clayton County,2
+,Clearwater County,2
+,Cleburne County,2
+,Colfax County,2
+,Coos County,2
+,Covington County,2
+,Craig County,2
+,Crittenden County,2
+,Crook County,2
+,Curry County,2
+,Dakota County,2
+,Davidson County,2
+,Davis County,2
+,Deuel County,2
+,Dewey County,2
+,Dorchester County,2
+,Dunn County,2
+,Eddy County,2
+,Effingham County,2
+,Elbert County,2
+,Elk County,2
+,Elmore County,2
+,Emmet County,2
+,Escambia County,2
+,Fillmore County,2
+,Florence County,2
+,Ford County,2
+,Forest County,2
+,Forsyth County,2
+,Frederick County,2
+,Genesee County,2
+,Gibson County,2
+,Giles County,2
+,Gilmer County,2
+,Gloucester County,2
+,Golden Valley County,2
+,Grady County,2
+,Grand County,2
+,Greeley County,2
+,Greenwood County,2
+,Halifax County,2
+,Hampshire County,2
+,Harding County,2
+,Harlan County,2
+,Harper County,2
+,Hart County,2
+,Hayes County,2
+,Haywood County,2
+,Hickman County,2
+,Highland County,2
+,Hillsborough County,2
+,Holt County,2
+,Hughes County,2
+,Humphreys County,2
+,Huron County,2
+,Hyde County,2
+,Iowa County,2
+,Johnston County,2
+,Juneau County,2
+,Kane County,2
+,Kings County,2
+,Klamath County,2
+,Lane County,2
+,Laurens County,2
+,Louisa County,2
+,Lucas County,2
+,Marquette County,2
+,McDowell County,2
+,McHenry County,2
+,Mecklenburg County,2
+,Meigs County,2
+,Menominee County,2
+,Mississippi County,2
+,Morrow County,2
+,Morton County,2
+,Nassau County,2
+,Nemaha County,2
+,Nevada County,2
+,Nicholas County,2
+,Northumberland County,2
+,Oconee County,2
+,Otero County,2
+,Otsego County,2
+,Ouachita County,2
+,Owen County,2
+,Page County,2
+,Paulding County,2
+,Pendleton County,2
+,Pennington County,2
+,Perkins County,2
+,Phelps County,2
+,Plymouth County,2
+,Pocahontas County,2
+,Pontotoc County,2
+,Portage County,2
+,Powell County,2
+,Prairie County,2
+,Quitman County,2
+,Ramsey County,2
+,Renville County,2
+,Rice County,2
+,Ripley County,2
+,Roane County,2
+,Roosevelt County,2
+,Rowan County,2
+,Rush County,2
+,Rutherford County,2
+,San Miguel County,2
+,Santa Cruz County,2
+,Scotland County,2
+,Sedgwick County,2
+,Seneca County,2
+,Seward County,2
+,Shannon County,2
+,Sierra County,2
+,Simpson County,2
+,Spencer County,2
+,St. Charles County,2
+,St. Joseph County,2
+,St. Louis County,2
+,Stafford County,2
+,Stanley County,2
+,Stanton County,2
+,Steele County,2
+,Steuben County,2
+,Stewart County,2
+,Suffolk County,2
+,Sumner County,2
+,Surry County,2
+,Talbot County,2
+,Tazewell County,2
+,Texas County,2
+,Thurston County,2
+,Tioga County,2
+,Tipton County,2
+,Turner County,2
+,Wabash County,2
+,Walton County,2
+,Walworth County,2
+,Wells County,2
+,Westmoreland County,2
+,Whitley County,2
+,Wilcox County,2
+,Wilkes County,2
+,Wilkinson County,2
+,Williams County,2
+,Windham County,2
+,Winston County,2
+,Woodford County,2
+,Worcester County,2
+,Yuma County,2
+Armstrong County,Armstrong County,2
+Bell County,Bell County,2
+Brooks County,Brooks County,2
+Chambers County,Chambers County,2
+Crockett County,Crockett County,2
+DeWitt County,DeWitt County,2
+Duval County,Duval County,2
+El Paso County,El Paso County,2
+Fannin County,Fannin County,2
+Gray County,Gray County,2
+Guadalupe County,Guadalupe County,2
+Hale County,Hale County,2
+Hardeman County,Hardeman County,2
+Harris County,Harris County,2
+Hidalgo County,Hidalgo County,2
+Hill County,Hill County,2
+Hopkins County,Hopkins County,2
+Hutchinson County,Hutchinson County,2
+Jeff Davis County,Jeff Davis County,2
+Kendall County,Kendall County,2
+King County,King County,2
+Leon County,Leon County,2
+Limestone County,Limestone County,2
+Medina County,Medina County,2
+Menard County,Menard County,2
+Midland County,Midland County,2
+Mills County,Mills County,2
+Oldham County,Oldham County,2
+Panola County,Panola County,2
+Red River County,Red River County,2
+Roberts County,Roberts County,2
+Rusk County,Rusk County,2
+Sabine County,Sabine County,2
+Terrell County,Terrell County,2
+Trinity County,Trinity County,2
+Tyler County,Tyler County,2
+Upshur County,Upshur County,2
+Ward County,Ward County,2
+Wichita County,Wichita County,2
+Wise County,Wise County,2
